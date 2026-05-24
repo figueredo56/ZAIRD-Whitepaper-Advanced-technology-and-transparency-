@@ -3,7 +3,7 @@ Designed with extreme scarcity specifications and systematic rebalancing algorit
 
 # ZAIRD PROTOCOL ⚡ — LIQUIDITY ENGINE
 ### High-Frequency Market Architecture & Systematic Asset Rebalancing
-[![Network: BSC](https://img.shields.io/badge/Network-BSC%20Mainnet-F3BA2F?style=flat-squared&logo=binance)](https://bscscan.com/)
+[![Network: BSC](https://app.binance.com/uni-qr/web3-token-details?utm_medium=share&tokenCA=0x84027d2b2f269bfd39598b0b074dbccf48634549&binanceChainId=56&chain=bsc)
 [![Audited: Xenocrypt](https://img.shields.io/badge/Security-Xenocrypt%20Verified-00FFA3?style=flat-squared)](#)
 [![Engine: Ultra--Scarce](https://img.shields.io/badge/Supply-Ultra--Scarce%20%5B100%20Max%5D-FF0055?style=flat-squared)]()
 
