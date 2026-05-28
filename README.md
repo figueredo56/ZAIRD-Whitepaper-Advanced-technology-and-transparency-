@@ -1,6 +1,4 @@
-Z.2
-
-# ZAIRD-Whitepaper-Advanced-technology-and-transparency-
+# Z.2 -Whitepaper-Advanced-technology-and-transparency-
 Designed with extreme scarcity specifications and systematic rebalancing algorithms, Z.2 has been conceptualized to optimally synchronize three pillars of ecosystem action: Advanced psychology of high-frequency trading (futures trading psychology), Web3 interactive entertainment platforms, and automated value. 
 
 # ZAIRD PROTOCOL ⚡ — LIQUIDITY ENGINE
