@@ -9,7 +9,7 @@ Designed with extreme scarcity specifications and systematic rebalancing algorit
 
 ## 🛠️ System Overview & Core Vector
 
-**ZAIRD** is the hyper-dynamic velocity and performance engine driving the **ZAARD INNOVATION** decentralized ecosystem. Engineered as an ultra-scarce financial primitive, the protocol is mathematically optimized to bridge three core behavioral vectors on-chain:
+**ZAIRD Z.2** is the hyper-dynamic velocity and performance engine driving the **ZAARD INNOVATION** decentralized ecosystem. Engineered as an ultra-scarce financial primitive, the protocol is mathematically optimized to bridge three core behavioral vectors on-chain:
 
 * **⚡ Velocity Optimization:** Synchronizing high-frequency trading (HFT) psychology with immediate block finality.
 * **🕹️ Web3 Arcade Utility:** Serving as the underlying raw power asset for game-vault distribution and state-machine execution.
